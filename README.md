@@ -13,7 +13,6 @@ This project is an implementation of Cutout, Mixup and Cutmix on CIFAR100 datase
 ### Installing
 
 * Download this program through git clone and put it in your repository
-* Create file plot for all visualization
 
 ### Executing program
 * You can refer to this environment setting
